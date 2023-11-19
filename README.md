@@ -1,6 +1,6 @@
-Pyth Network Airdrop Checker
+### Pyth Network Airdrop Checker
 
-All networks in one script
+Checker can check wallets in all networks - EVM, Aptos, Solana, Sui
 
 - use "pip install -r requirements.txt" for install libraries
 - put your wallets to aptos/evm/solana/sui.txt (1 wallet - 1 line)
